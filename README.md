@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Weiwei Qin
-- 🌱 I’m currently learning Computer Science & Applied Mathematics
+- 🌱 I’m a master student major in Computer Science
 - 📫 How to reach me: weiweiqin99@gmail.com
 
 <!---
